@@ -1,1 +1,1 @@
-print("Hello welcome to my app")
+print("Welcome")
